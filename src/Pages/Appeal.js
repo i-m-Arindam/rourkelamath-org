@@ -117,7 +117,7 @@ export default function RMR() {
           Ramakrishna Mission, Rourkela</p>
       </div></div>
         <div className="appeal-long-header header">
-          <h1>Photos revealing the dilapidated condition of Shri Ramakrishna Sangha rest-while a private center in the year 2019 under Odisha Bhava Prachar Parishad</h1>
+          <h1>Photos revealing the worn-out condition of Shri Ramakrishna Sangha rest-while a private center in the year 2019 under Odisha Bhava Prachar Parishad</h1>
         </div>
         <div className="center">
           <div className="gallery-4">
